@@ -5,7 +5,8 @@ our project is **TRAVEL TICKET BOOKING SYSTEM** where users can book their trave
 
 ## To know more about the project you can check out:
 
-https://www.youtube.com/playlist?list=PLBx4Dz7QolRobWrW_xUTfoULAQwY355fb
+
+[Watch the video on YouTube](https://www.youtube.com/playlist?list=PLBx4Dz7QolRobWrW_xUTfoULAQwY355fb)
 
 in here we have explained about the uml diagram,classes,gui and everything
 
