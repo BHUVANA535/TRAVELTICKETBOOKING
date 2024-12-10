@@ -31,7 +31,7 @@ Follow these steps to set up and run the application:
 
 **Step 3: compilation**
 
-1. javac *.java
+1. ## javac *.java
 
 2. "PS C:\Users\BHUVANA VIJAYA\OneDrive\Documents\travelticketbooking> javac -cp "C:\Users\BHUVANA VIJAYA\Downloads\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0.jar" .\Main.java"
 
