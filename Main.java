@@ -1,5 +1,3 @@
-package travelticketbooking;
-
 import java.awt.*;
 import java.sql.*;
 import java.util.Stack;
