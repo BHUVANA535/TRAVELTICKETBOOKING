@@ -1,7 +1,7 @@
 # TRAVEL_TICKET_BOOKING-SYSTEM
 
 ## What is our project?
-our project is **TRAVEL TICKET BOOKING SYSTEM** where users can book their travel tickets like bus,train,flight and also hotel room booking.
+Our Project is **TRAVEL TICKET BOOKING SYSTEM** where users can book their travel tickets like bus,train,flight and also hotel room booking.
 
 ## To know more about the project you can check out:
 
