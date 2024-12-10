@@ -31,9 +31,9 @@ Follow these steps to set up and run the application:
 
 **Step 3: compilation**
 
-"javac *.java"
+1. javac *.java
 
-"PS C:\Users\BHUVANA VIJAYA\OneDrive\Documents\travelticketbooking> javac -cp "C:\Users\BHUVANA VIJAYA\Downloads\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0.jar" .\Main.java"
+2. "PS C:\Users\BHUVANA VIJAYA\OneDrive\Documents\travelticketbooking> javac -cp "C:\Users\BHUVANA VIJAYA\Downloads\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0.jar" .\Main.java"
 
 ->it will be like this. so basically u find the path path to the MySQL Connector/J JAR file, which contains the necessary Java classes for connecting to a MySQL database.
 
