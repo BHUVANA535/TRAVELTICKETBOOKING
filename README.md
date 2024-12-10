@@ -26,6 +26,9 @@ Follow these steps to set up and run the application:
 
 **Step 2: Navigate to the Project Directory**
 
+![image](https://github.com/user-attachments/assets/fd434893-af52-4e0b-9274-ccf0965b6480)
+
+
 **Step 3: compilation**
 
 "javac *.java"
